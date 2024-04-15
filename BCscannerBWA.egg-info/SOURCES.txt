@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+BCscannerBWA/__init__.py
+BCscannerBWA/add_umi.py
+BCscannerBWA/bamGetumi.py
+BCscannerBWA/barcodeRef.py
+BCscannerBWA/fastq2sam.py
+BCscannerBWA/getBarcodeSeqence.py
+BCscannerBWA/sam2fq.py
+BCscannerBWA.egg-info/PKG-INFO
+BCscannerBWA.egg-info/SOURCES.txt
+BCscannerBWA.egg-info/dependency_links.txt
+BCscannerBWA.egg-info/top_level.txt
